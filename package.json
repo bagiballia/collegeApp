@@ -1,0 +1,19 @@
+{
+  "name": "collegeApp",
+  "version": "1.0.0",
+  "main": "college.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "nyc": "^15.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nyc mocha --colors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
